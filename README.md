@@ -10,13 +10,14 @@ the input does not contain two integers,
 an input integer is negative or zero.
 
 Sample program runs:
-
-Enter chessboard size:
+<pre>
+Enter chessboard size: 
 5
-Enter field width:
+Enter field width: 
 3
+
 +---------------+
-|   XXX   XXX   |
+|‎ ‎ ‎ XXX   XXX   |
 |   XXX   XXX   |
 |   XXX   XXX   |
 |XXX   XXX   XXX|
@@ -81,3 +82,4 @@ Invalid input.
 Enter chessboard size:
 asdf
 Invalid input.
+</pre>
