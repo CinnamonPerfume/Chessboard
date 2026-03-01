@@ -15,7 +15,6 @@ Enter chessboard size:
 5
 Enter field width: 
 3
-
 +---------------+
 |‎ ‎ ‎ XXX   XXX   |
 |   XXX   XXX   |
